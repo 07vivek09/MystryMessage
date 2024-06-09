@@ -1,4 +1,4 @@
-MONGODB_URI="mongodb+srv://user:vivek@cluster0.vdxsxkv.mongodb.net/?retryWrites=true&w=majority&appName=Cluster0"
-RESEND_API_KEY="re_37mfp3Uo_7CezhyeLUM2HibQ7hFeWhdYg"
-NEXTAUTH_SECRET=nextauthsecret
-OPENAI_API_KEY="sk-proj-qbfgkS3fIc4ZghXwP5VUT3BlbkFJZGwT1iuQ1CE0ie4nHWfb"
+MONGODB_URI=""
+RESEND_API_KEY=""
+NEXTAUTH_SECRET=
+OPENAI_API_KEY=""
